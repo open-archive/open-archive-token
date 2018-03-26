@@ -16,6 +16,9 @@ Then add your private key into the file.
 ### Request free eth
 Get free eth: 
 [Test Ether Faucet](https://faucet.metamask.io/)
+
+Make sure you choose `rinkeby` network in metamask
+
 ### Deploy to testnet
 https://github.com/open-archive/open-archive-token/blob/master/truffle.js#L27
 ```shell
