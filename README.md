@@ -13,21 +13,25 @@ Then add your private key into the file.
 
 ## Change code and test
 
-### Request free eth
 Get free eth: 
 [Test Ether Faucet](https://faucet.metamask.io/)
 
-Make sure you choose `rinkeby` network in metamask
+Make sure you choose `ropsten` network in metamask
+
+## Install packages
+```shell
+npm install
+```
 
 ## Compile
 ```shell
 truffle compile
 ```
 
-### Deploy to testnet
+## Deploy to testnet
 https://github.com/open-archive/open-archive-token/blob/master/truffle.js#L27
 ```shell
-truffle deploy --network rinkeby
+truffle deploy --network ropsten
 ```
 ## Deploy to mainnet
 ```shell
