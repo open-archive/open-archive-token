@@ -19,6 +19,11 @@ Get free eth:
 
 Make sure you choose `rinkeby` network in metamask
 
+## Compile
+```shell
+truffle compile
+```
+
 ### Deploy to testnet
 https://github.com/open-archive/open-archive-token/blob/master/truffle.js#L27
 ```shell
