@@ -1,6 +1,9 @@
 # Open Archive Token
 Open Archive Token developed with truffle framework
 
+### Deployed address
+https://etherscan.io/token/0x71d5103f9aae53ab81094902cab09739c045c5fb
+
 If you want to use this code to issue your own token, remember to change `.env.example` to `.env` with command line:
 
 ```shell
